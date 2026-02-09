@@ -52,12 +52,6 @@ java -jar target/sumofsquares-bench-1.0-SNAPSHOT.jar com.example.jmh.SumOfSquare
 java -jar target/sumofsquares-bench-1.0-SNAPSHOT.jar com.example.jmh.SumOfSquaresBenchmark.optimized
 ```
 
-## Run Tests
-
-```bash
-mvn test
-```
-
 ## Project Structure
 
 ```
